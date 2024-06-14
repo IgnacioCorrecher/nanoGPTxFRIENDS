@@ -37,8 +37,8 @@ To set up the environment and install necessary dependencies, follow these steps
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/nanoGPT-x-Friends.git
-    cd nanoGPT-x-Friends
+    git clone https://github.com/IgnacioCorrecher/nanoGPTxFRIENDS.git
+    cd nanoGPTxFRIENDS
     ```
 
 ## Usage
